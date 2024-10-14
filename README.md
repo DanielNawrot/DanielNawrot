@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to learn more about **computer science and computer engineering**
 
-- 💬 I have **created games with unity, made simple physics simulations, and created various things with arduino IDE and microcontrollers**
+- 💬 I have **created games with unity, made simple physics simulations, and created various things with arduino IDE and Raspberry PI**
 
 - 📫 How to reach me **dpnawrot@gmail.com**
 
