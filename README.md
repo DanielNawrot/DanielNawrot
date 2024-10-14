@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Nawrot</h1>
 <h3 align="center">An ambitious student looking to learn through projects</h3>
 
+- 🌱 I’m currently learning **python**
+
+- 👯 I’m looking to learn more about **computer science and engineering**
+
+- 📫 How to reach me **dpnawrot@gmail.com**
+
+- ⚡ I love **math, physics, and learning new things**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
