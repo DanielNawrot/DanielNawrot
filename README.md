@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dpnawrot@gmail.com**
 
-- ⚡ I love **math, physics, and learning new things**
+- ⚡ I love **math, physics, piano, and learnign new things and skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
