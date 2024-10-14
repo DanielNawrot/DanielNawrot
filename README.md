@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, my name is Daniel Nawrot
+# An ambitious student looking to learn through porjects
 
 <!--
 **DanielNawrot/DanielNawrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
