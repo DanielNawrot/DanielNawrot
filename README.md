@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to learn more about **computer science and engineering**
+- 👯 I’m looking to learn more about **computer science and computer engineering**
 
 - 📫 How to reach me **dpnawrot@gmail.com**
 
