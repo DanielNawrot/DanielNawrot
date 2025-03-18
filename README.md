@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👯 I’m looking to learn more about **computer science and computer engineering**
+- 👯 I’m looking to learn more about **computer science and computer engineering**, I aspire to study **Mechatronics Engineering** in university.
 
 - 💬 I have **created games with unity, made simple physics simulations, and created various things with arduino IDE and Raspberry PI**
 
