@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Nawrot</h1>
 <h3 align="center">An ambitious student looking to learn through creation</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning how to use **pybullet**
 
-- 👯 I’m looking to learn more about **computer science and computer engineering**, I aspire to study **Mechatronics Engineering** in university.
+- 👯 I’m looking to learn more about **computer science and computer engineering**, I am studying **Mechatronics Engineering** at the University of Toronto.
 
 - 💬 I have **created games with unity, made simple physics simulations, and created various things with arduino IDE and Raspberry PI**
 
